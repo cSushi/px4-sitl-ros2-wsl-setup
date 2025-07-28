@@ -17,7 +17,7 @@ A one-click Windows batch script to automate the installation of ROS2 Iron, Gaze
 - 20GB+ free disk space (WSL + Gazebo require significant space).  
 
 ## Usage  
-1. Download the [`install_ros2_gazebo_px4.bat`](install_ros2_gazebo_px4.bat) file.  
+1. Download the [`px4-sitl-ros2-wsl-setup.git`](px4-sitl-ros2-wsl-setup.git) file.  
 2. **Run as Administrator** (required for WSL setup).  
 3. Follow on-screen prompts (Ubuntu installation may require manual confirmation).  
 4. After completion, open WSL Ubuntu and run:  
